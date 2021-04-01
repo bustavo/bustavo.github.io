@@ -2,14 +2,62 @@
   <div class="container">
     <div class="row">
       <div class="col-sm">
-        <ul class="list-unstyled">
-          <li>
-            bustavo.com
-          </li>
-          <li>
-            <small><a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a></small>
-          </li>
-        </ul>
+        {% if page.language == "English" %}
+        <h3 class="text-light">
+          Contact Me
+        </h3>
+
+        <p class="text-light">
+          I like to be contacted for new projects, collaborations, and to speak about:<br/>
+          Diabetes, Innovation, Open-Source and Entrepreneurship. 
+
+          {% if page.title != "Talks & Media" %}
+          <br/><br/>
+          Here is a <a href="{% link media.md %}">list of my talks & media mentions</a> over the years.
+          {% endif %}
+        </p>
+
+        <p class="text-light">
+          If you would like to contact me, please do so through any of the following:<br/>
+        {% else %}
+        <h3 class="text-light">
+          Contacto
+        </h3>
+
+        <p class="text-light">
+          Me gusta ser contactado para proyectos nuevos, colaboraciones y para hablar de:<br/>
+          Diabetes, Innovación, Open-Source y Emprendimiento.
+
+          {% if page.title != "Conferencias y Medios" %}
+          <br/><br/>
+          Esta es una <a href="{% link medios.md %}">lista de mis pláticas y menciones en medios</a> a lo largo de los años.
+          {% endif %}
+        </p>
+
+        <p class="text-light">
+          Si te gustaría contactarme, por favor hazlo a traves de cualquiera de las siguientes:<br/>
+        {% endif %}
+          <a href="https://github.com/bustavo" target="_blank">
+            <img alt="GitHub" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=github&logoColor=black">
+          </a>
+          <a href="https://instagram.com/bustavo" target="_blank">
+            <img alt="Instagram" src="https://img.shields.io/badge/bustavo-E4405F?logo=instagram&logoColor=white">
+          </a>
+          <a href="https://twitter.com/bustavo" target="_blank">
+            <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white">
+          </a>
+          <a href="https://facebook.com/bustavo" target="_blank">
+            <img alt="Facebook" src="https://img.shields.io/badge/bustavo-1877F2?logo=facebook&logoColor=white">
+          </a>
+          <a href="https://linkedin.com/in/bustavo/" target="_blank">
+            <img alt="LinkedIn" src="https://img.shields.io/badge/bustavo-0077B5?logo=linkedin&logoColor=white">
+          </a>
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm mb-5">
+        <small><a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a></small>
       </div>
     </div>
   </div>

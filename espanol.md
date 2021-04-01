@@ -2,6 +2,7 @@
 layout: page
 title: Español
 header: Hola, soy<br/>Gustavo
+language: Español
 ---
 
 <p>
@@ -9,9 +10,7 @@ header: Hola, soy<br/>Gustavo
 </p>
 
 <h5 class="text-light">
-  Me gusta aprender así que siempre busco nuevos proyectos.<br/>
-  Me apasiona el desarrollo de software y la planeación estratégica.<br/>
-  Analizar, resolver y automatizar es lo que mejor hago.
+  Me gusta aprender así que siempre busco nuevos proyectos. Me apasiona el desarrollo de software y la planeación estratégica. Analizar, resolver y automatizar es lo que mejor hago.
 </h5>
 
 <p>
@@ -19,8 +18,7 @@ header: Hola, soy<br/>Gustavo
 </p>
 
 <h5 class="text-light">
-  Siempre estoy rodeado de personas increíbles,<br/>
-  con quienes he creado muchos proyectos:
+  Siempre estoy rodeado de personas increíbles, con quienes he creado muchos proyectos:
 </h5>
 
 <p>
@@ -100,29 +98,3 @@ header: Hola, soy<br/>Gustavo
 <p>
 —
 </p>
-
-<h5 class="text-light">
-  Me gusta ser contactado para proyectos nuevos, colaboraciones y para hablar de: Diabetes, Innovación, Open-Source y Emprendimiento.
-</h5>
-
-<br/>
-
-<h5 class="text-light">
-  Si te gustaría contactarme, por favor hazlo a traves de cualquiera de las siguientes:
-</h5>
-
-<a href="https://github.com/bustavo" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=github&logoColor=black">
-</a>
-<a href="https://instagram.com/bustavo" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/bustavo-E4405F?logo=instagram&logoColor=white">
-</a>
-<a href="https://twitter.com/bustavo" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white">
-</a>
-<a href="https://facebook.com/bustavo" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/bustavo-1877F2?logo=facebook&logoColor=white">
-</a>
-<a href="https://linkedin.com/in/bustavo/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/bustavo-0077B5?logo=linkedin&logoColor=white">
-</a>

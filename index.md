@@ -2,6 +2,7 @@
 layout: page
 title: English
 header: Hello, I am<br/>Gustavo
+language: English
 ---
 
 <p>
@@ -9,9 +10,7 @@ header: Hello, I am<br/>Gustavo
 </p>
 
 <h5 class="text-light">
-  I like to learn so I am always looking for new projects.<br/>
-  I am passionate about software development & strategic planning.<br/>
-  Analyzing, solving and automating is what I do best.
+  I like to learn so I am always looking for new projects. I'm passionate about software development & strategic planning. Analyzing, solving and automating is what I do best.
 </h5>
 
 <p>
@@ -19,8 +18,7 @@ header: Hello, I am<br/>Gustavo
 </p>
 
 <h5 class="text-light">
-  I am always surrounded by incredible people,<br/>
-  with whom I have created many projects:
+  I'm always surrounded by incredible people, with whom I have created many projects:
 </h5>
 
 <p>
@@ -100,29 +98,3 @@ header: Hello, I am<br/>Gustavo
 <p>
 —
 </p>
-
-<h5 class="text-light">
-  I like to be contacted for new projects, collaborations, and to speak about: Diabetes, Innovation, Open-Source and Entrepreneurship.
-</h5>
-
-<br/>
-
-<h5 class="text-light">
-  If you would like to contact me, please do so through any of the following:
-</h5>
-
-<a href="https://github.com/bustavo" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=github&logoColor=black">
-</a>
-<a href="https://instagram.com/bustavo" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/bustavo-E4405F?logo=instagram&logoColor=white">
-</a>
-<a href="https://twitter.com/bustavo" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white">
-</a>
-<a href="https://facebook.com/bustavo" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/bustavo-1877F2?logo=facebook&logoColor=white">
-</a>
-<a href="https://linkedin.com/in/bustavo/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/bustavo-0077B5?logo=linkedin&logoColor=white">
-</a>
