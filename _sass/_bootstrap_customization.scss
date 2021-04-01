@@ -7,13 +7,21 @@
 
 // Variables ===================================================================
 
-$web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
+$web-font-path: "https://fonts.googleapis.com/css?family=Montserrat&family=Playfair+Display" !default;
 @import url($web-font-path);
 
 // Navbar ======================================================================
 
 .navbar {
   font-family: $headings-font-family;
+}
+
+.primary-font {
+  font-family: $primary-font-family;
+}
+
+.secondary-font {
+  font-family: $secondary-font-family;
 }
 
 .bg-dark {
@@ -82,6 +90,22 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 }
 
 // Typography ==================================================================
+
+.italic {
+  font-style: italic;
+}
+
+.tight-line-height {
+  line-height: 90%;
+}
+
+.text-light-gray {
+  color: $gray-600;
+}
+
+.text-dark-gray {
+  color: $gray-100;
+}
 
 // Tables ======================================================================
 

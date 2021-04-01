@@ -42,8 +42,8 @@ $green:   #56CC9D !default;
 $teal:    #20c997 !default;
 $cyan:    #6CC3D5 !default;
 
-$primary:       #78C2AD !default;
-$secondary:     #F3969A !default;
+$primary:       #a9ff00 !default;
+$secondary:     #000 !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
@@ -65,6 +65,8 @@ $border-radius-sm:            .3rem !default;
 
 // Fonts
 
+$primary-font-family:         "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$secondary-font-family:       "Playfair Display", serif !default;
 $headings-font-family:        "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
 $headings-color:              $gray-700 !default;
 
