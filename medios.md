@@ -17,7 +17,15 @@ Google Developers Group DEV Fest 2020.<br/>
   —
 </p>
 
-Expociencias Sonora<br/>
+Red Nacional de Actividades Juveniles en Ciencia y Tecnología (RED)<br/>
+Participación como evaluador de proyectos para Expociencias Sonora 2020 Virtual.<br/>
+<small>December 11th, 2020</small>
+
+<p>
+  —
+</p>
+
+Expociencias Sonora 2020 Virtual<br/>
 Open Source para la innovación médica.<br/>
 <small>September 6th, 2020</small>
 
