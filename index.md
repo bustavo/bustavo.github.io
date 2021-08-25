@@ -100,7 +100,7 @@ language: English
 </h3>
 
 <p class="text-light-gray">
-  I've been curious about art and specifically generative art for +10 years. I am always exploring generative art inspired by how everything we do is pushed to the point of converting itself into asonnishing visual chaos.
+  I've been curious about art and specifically generative art for +10 years. I am always exploring generative art inspired by how everything we do is pushed to the point of converting itself into astonishing visual chaos.
 </p>
 
 <div class="row">
