@@ -7,3 +7,18 @@
 @import "syntax-highlighting";
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
+
+h3 {
+  letter-spacing: -2px;
+  font-weight: 100;
+}
+
+iframe.instagram-media {
+  max-width: 100% !important;
+  width: 100% !important;
+  min-width: auto !important;
+}
+
+iframe.instagram-media .Feedback, iframe.instagram-media .SocialProof, iframe.instagram-media .Caption {
+  display: none;
+}

@@ -6,10 +6,10 @@
 // Some customization of the container class to have a better display in the guide.
 // Don't hesitate to remove it to have a standard Bootstrap behavior
 $container-max-widths: (
-  sm: 540px,
-  md: 640px,
-  lg: 690px,
-  xl: 720px
+  sm: 80%,
+  md: 80%,
+  lg: 80%,
+  xl: 80%
 ) !default;
 
 // Minty 4.3.1
