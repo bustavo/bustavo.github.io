@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Español
+title: Inicio
+menu_name: Español
 header: Hola, soy<br/>Gustavo
 language: Español
 ---
@@ -99,7 +100,7 @@ language: Español
   <strong>Arte Generativo</strong>
 </h3>
 
-<p class="text-light-gray">
+<p class="text-light-gray mb-4">
   He tenido curiosidad del arte y específicamente del arte generativo por +10 años. Siempre estoy explorando el arte generativo inspirado por como todo lo que hacemos lo empujamos al punto de convertirlo en un sorprendente caos visual.
 </p>
 

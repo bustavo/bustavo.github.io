@@ -1,6 +1,7 @@
 ---
 layout: page
-title: English
+title: Home
+menu_name: English
 header: Hello, I am<br/>Gustavo
 language: English
 ---
@@ -99,7 +100,7 @@ language: English
   <strong>Generative Art</strong>
 </h3>
 
-<p class="text-light-gray">
+<p class="text-light-gray mb-4">
   I've been curious about art and specifically generative art for +10 years. I am always exploring generative art inspired by how everything we do is pushed to the point of converting itself into astonishing visual chaos.
 </p>
 
