@@ -9,6 +9,14 @@ language: English
   <br/>—
 </p>
 
+Asia Pacific Conference of Young Scientists 2021<br/>
+<a href="https://fb.watch/8n9_MWvZA4/">Open Source, a key in humankind development.</a><br/>
+<small>September 28th, 2021</small>
+
+<p>
+  —
+</p>
+
 Google Developers Group DEV Fest 2020.<br/>
 <a href="https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-dev-fest2020-hermosillo/">Open Source habilitando innovación médica.</a><br/>
 <small>October 17th, 2020</small>
