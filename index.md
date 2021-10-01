@@ -90,7 +90,7 @@ language: English
 <p class="text-light-gray">
   Many of the diabetes software tools I've participated in have been created with this non-profit educating patients through data visualization tools.
 </p>
-[www.perceptus.org](https://www.perceptus.org)
+[www.perceptus.org](http://www.perceptus.org)
 
 <p>
 —

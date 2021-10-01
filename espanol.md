@@ -90,7 +90,7 @@ language: Español
 <p class="text-light-gray">
   Muchas de las herramientas de software para diabetes en las que he participado han sido creadas con esta organización sin fines de lucro que educa a pacientes a través de herramientas de visualización de datos.
 </p>
-[www.perceptus.org](https://www.perceptus.org)
+[www.perceptus.org](http://www.perceptus.org)
 
 <p>
 —
