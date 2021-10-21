@@ -4,6 +4,9 @@ title: Inicio
 menu_name: Español
 header: Hola, soy<br/>Gustavo
 language: Español
+permalink: /es
+alternate_language: English
+alternate_language_url: /
 ---
 
 <p>
@@ -98,12 +101,13 @@ language: Español
 </h3>
 
 <p class="text-light-gray">
-  En mi tiempo libre, cree un algoritmo de automatización de dosificación de insulia que utilizo desde el 2015. Mantiene mi HbA1c en 5.5% 💙
+  En mi tiempo libre, cree un algoritmo de automatización de dosificación de insulia que utilizo desde el 2015. Mantiene mi HbA1c abajo de 6.0% 💙
 </p>
 
-<p class="text-light-gray">
-  Esta es mi plática de TEDx acerca del proyecto
+<p class="text-light-gray">  
+  Algunas personas me contactan para obtener ayuda con diabetes y tecnologías relacionadas. He preparado una página acerca de eso aquí:
 </p>
+[Preguntas Frecuentes Simpancreas](simpancreas_es.md)
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/K1C4xEWipOo" allowfullscreen></iframe>

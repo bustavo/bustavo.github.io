@@ -4,6 +4,9 @@ title: Home
 menu_name: English
 header: Hello, I am<br/>Gustavo
 language: English
+permalink: /
+alternate_language: Español
+alternate_language_url: /es
 ---
 
 <p>
@@ -98,12 +101,13 @@ language: English
 </h3>
 
 <p class="text-light-gray">
-  On my free time, I created an insuling dosing automation algorithm for myself in use since 2015. Keeps my HbA1c at 5.5% 💙
+  On my free time, I created an insuling dosing automation algorithm for myself in use since 2015. Keeps my HbA1c below 6.0% 💙
 </p>
 
 <p class="text-light-gray">
-  Here's my TEDx talk about it ( Spanish )
+  Some people contact me for help with diabetes and related technologies. I've prepared a page about that here:
 </p>
+[Simpancreas Frequently Asked Questions](simpancreas.md)
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/K1C4xEWipOo" allowfullscreen></iframe>

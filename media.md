@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Talks & Media
+menu_name: Media
 header: Talks &<br/>Media Mentions
 language: English
+permalink: /media
+alternate_language: Español
+alternate_language_url: /medios
 ---
 
 <p>

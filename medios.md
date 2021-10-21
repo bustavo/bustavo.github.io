@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Conferencias y Medios
+menu_name: Medios
 header: Conferencias &<br/>Menciones en Medios
 language: Español
+permalink: /medios
+alternate_language: English
+alternate_language_url: /media
 ---
 
 <p>
