@@ -4,9 +4,9 @@ title: Simpancreas ( Español )
 menu_name: Simpancreas ( es )
 header: Frequently Asked Questions<br/>Simpancreas
 language: English
-permalink: /simpancreas
+permalink: /simpancreas-faq
 alternate_language: Español
-alternate_language_url: /simpancreas_es
+alternate_language_url: /simpancreas
 ---
 
 
