@@ -9,9 +9,13 @@ alternate_language_url: /links
 include_footer: false
 ---
 
+<p class="text-center">
+  <img src="assets/images/the_insulin_pricing_law.jpg">
+</p>
+
 <p>
   <a href="/ley-precio-insulina" class="btn btn-primary text-dark btn-md btn-block">
-    La Ley del Precio de la Insulina
+    <strong>La Ley del Precio de la Insulina</strong>
   </a>
 </p>
 
@@ -34,7 +38,7 @@ include_footer: false
 
 <p>
   <a href="http://buymeacoffee.com/bustavo" class="btn btn-dark btn-md btn-block">
-    Cómprame un café
+    ☕️ Cómprame un café ☕️
   </a>
 </p>
 
@@ -44,23 +48,23 @@ include_footer: false
 
 <p class="text-center mb-0">
   <a href="https://github.com/bustavo" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=github&logoColor=black" style="min-width: 100px;" class="mb-1">
+    <img alt="GitHub" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=github&logoColor=black" style="min-height: 30px;" class="mb-1">
   </a>
   <a href="https://instagram.com/bustavo" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/bustavo-E4405F?logo=instagram&logoColor=white" style="min-width: 100px;" class="mb-1">
+    <img alt="Instagram" src="https://img.shields.io/badge/bustavo-E4405F?logo=instagram&logoColor=white" style="min-height: 30px;" class="mb-1">
   </a>
   <a href="https://twitter.com/bustavo" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white" style="min-width: 100px;" class="mb-1">
+    <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white" style="min-height: 30px;" class="mb-1">
   </a>
 </p>
 <p class="text-center">
   <a href="https://facebook.com/bustavo" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/bustavo-1877F2?logo=facebook&logoColor=white" style="min-width: 100px;" class="mb-1">
+    <img alt="Facebook" src="https://img.shields.io/badge/bustavo-1877F2?logo=facebook&logoColor=white" style="min-height: 30px;" class="mb-1">
   </a>
   <a href="https://linkedin.com/in/bustavo/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/bustavo-0077B5?logo=linkedin&logoColor=white" style="min-width: 100px;" class="mb-1">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/bustavo-0077B5?logo=linkedin&logoColor=white" style="min-height: 30px;" class="mb-1">
   </a>
   <a href="http://tiktok.com/@bustavo.com" target="_blank">
-    <img alt="TikTok" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=tiktok&logoColor=black" style="min-width: 100px;" class="mb-1">
+    <img alt="TikTok" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=tiktok&logoColor=black" style="min-height: 30px;" class="mb-1">
   </a>
 </p>
