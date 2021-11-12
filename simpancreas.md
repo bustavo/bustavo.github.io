@@ -18,13 +18,22 @@ alternate_language_url: /simpancreas
   I greatly appreciate your interest in approaching me to try to learn more about my work with technologies related to the control of Type I Diabetes.
 </h5>
 
-<p class="text-light pt-3">
-  It has been +5 years since I started experimenting to create my own insulin dosing control system (simpancreas) and in the time that has elapsed since then, the industry has changed and continues to change. The most important and valuable thing for me has been the great community around Type I Diabetes which I am very proud to be a part of.
-</p>
+<div class="row">
+  <div class="col-12 col-lg-6 order-last order-lg-first">
+    <p class="text-light pt-3">
+      It has been +5 years since I started experimenting to create my own insulin dosing control system (simpancreas) and in the time that has elapsed since then, the industry has changed and continues to change. The most important and valuable thing for me has been the great community around Type I Diabetes which I am very proud to be a part of.
+    </p>
 
-<p class="text-light">
-  For whatever reason you came here, I think that here are some of the answers to the most frequently asked questions I receive related to my work with software related to type I diabetes:
-</p>
+    <p class="text-light">
+      For whatever reason you came here, I think that here are some of the answers to the most frequently asked questions I receive related to my work with software related to type I diabetes:
+    </p>
+  </div>
+  <div class="col-12 col-lg-6 order-first order-lg-last">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/K1C4xEWipOo" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
 
 <p>
   <br/>—

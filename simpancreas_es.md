@@ -17,13 +17,22 @@ alternate_language_url: /simpancreas-faq
   Agradezco bastante tu interés en acercarte para tratar de aprender mas acerca de mi trabajo con tecnologías relacionadas con el control de la Diabetes Tipo I.
 </h5>
 
-<p class="text-light pt-3">
-  Han pasado ya +5 años desde que comencé a experimentar para crear mi propio sistema de control ( simpancreas ) y en el tiempo que ha transcurrido desde entonces, la industria ha cambiado y continúa cambiando. Lo mas importante y valioso para mi ha sido la gran comunidad alrededor de la Diabetes Tipo I de la cual me siento muy orgulloso de formar parte.
-</p>
+<div class="row">
+  <div class="col-12 col-lg-6 order-last order-lg-first">
+    <p class="text-light pt-3">
+      Han pasado ya +5 años desde que comencé a experimentar para crear mi propio sistema de control ( simpancreas ) y en el tiempo que ha transcurrido desde entonces, la industria ha cambiado y continúa cambiando. Lo mas importante y valioso para mi ha sido la gran comunidad alrededor de la Diabetes Tipo I de la cual me siento muy orgulloso de formar parte.
+    </p>
 
-<p class="text-light">
-  Por cualquier razón que hayas llegado aquí, creo que aquí estarán algunas de las respuestas de las preguntas mas frecuentes que recibo relacionadas a mi trabajo con software relacionado a diabetes tipo I:
-</p>
+    <p class="text-light">
+      Por cualquier razón que hayas llegado aquí, creo que aquí estarán algunas de las respuestas de las preguntas mas frecuentes que recibo relacionadas a mi trabajo con software relacionado a diabetes tipo I:
+    </p>
+  </div>
+  <div class="col-12 col-lg-6 order-first order-lg-last">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/K1C4xEWipOo" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
 
 <p>
   <br/>—
@@ -103,7 +112,7 @@ alternate_language_url: /simpancreas-faq
 </p>
 
 <p>
-  <a href="https://loopkit.github.io/loopdocs/" target="_blank">Loop</a>. Sistema desarrollado teléfonos inteligentes iPhone.
+  <a href="https://loopkit.github.io/loopdocs/" target="_blank">Loop</a>. Sistema desarrollado para teléfonos inteligentes iPhone.
 </p>
 
 <p>
