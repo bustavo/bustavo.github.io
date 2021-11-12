@@ -1,0 +1,46 @@
+<h3 class="text-light pt-3 pb-2">
+  {% if page.language == "English" %}
+    About Me
+  {% else %}
+    Acerca de Mi
+  {% endif %}
+</h3>
+
+<p class="text-light">
+  {% if page.language == "English" %}
+    I'm Gustavo, a software developer, hardware tinkerer and generative artist. I am a person with type one diabetes and try to do advocacy for issues of interest for people with our condition mainly around open-source software.
+    <br/><br/>
+    <a href="{% link index.md %}">You can know more about me and about some of my projects here</a>.
+  {% else %}
+    Soy Gustavo, desarrollador de software, juego con hardware y soy artista generativo. Soy una persona con diabetes tipo uno y trato de abogar por temas de interés para las personas con nuestra condición, principalmente en torno al software de código abierto.
+    <br/><br/>
+    <a href="{% link espanol.md %}">Puedes saber más sobre mí y sobre algunos de mis proyectos aquí</a>.
+  {% endif %}
+</p>
+
+<p class="text-light">
+  {% if page.language == "English" %}
+    If you would like to contact me, please do so through any of the following:<br/>
+  {% else %}
+    Si desea comunicarse conmigo, hágalo a través de cualquiera de los siguientes:<br/>
+  {% endif %}
+  
+  <a href="https://github.com/bustavo" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=github&logoColor=black">
+  </a>
+  <a href="https://instagram.com/bustavo" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/bustavo-E4405F?logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com/bustavo" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white">
+  </a>
+  <a href="http://tiktok.com/@bustavo.com" target="_blank">
+    <img alt="TikTok" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=tiktok&logoColor=black">
+  </a>
+</p>
+
+<div class="row">
+  <div class="col-sm mb-5 mt-5">
+    <a href="https://bustavo.com">bustavo.com</a>
+  </div>
+</div>
