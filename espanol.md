@@ -4,9 +4,9 @@ title: Inicio
 menu_name: Español
 header: Hola, soy<br/>Gustavo
 language: Español
-permalink: /es
+permalink: /acerca
 alternate_language: English
-alternate_language_url: /
+alternate_language_url: /about
 ---
 
 <p>
