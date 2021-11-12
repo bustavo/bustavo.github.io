@@ -3,9 +3,9 @@ layout: page
 title: Enlaces
 menu_name: Enlaces
 language: Español
-permalink: /enlaces
+permalink: /es
 alternate_language: English
-alternate_language_url: /links
+alternate_language_url: /
 include_footer: false
 ---
 
@@ -24,12 +24,6 @@ include_footer: false
 </p>
 
 <p>
-  <a href="/es" class="btn btn-dark btn-md btn-block">
-    Acerca de mi
-  </a>
-</p>
-
-<p>
   <a href="https://objkt.com/profile/tz1MLGjH4EGE4MaYWQKQQ4mCrLZAyb3RvAYJ" class="btn btn-dark btn-md btn-block">
     Mis NFTs en Hic-et-Nunc
   </a>
@@ -39,6 +33,18 @@ include_footer: false
 <p>
   <a href="http://buymeacoffee.com/bustavo" class="btn btn-dark btn-md btn-block">
     ☕️ Cómprame un café ☕️
+  </a>
+</p>
+
+<p>
+  <a href="/es" class="btn btn-dark btn-md btn-block">
+    Acerca de mi
+  </a>
+</p>
+
+<p>
+  <a href="/simpancreas" class="btn btn-dark btn-md btn-block">
+    Simpancreas Preguntas Frecuentes
   </a>
 </p>
 
@@ -55,14 +61,6 @@ include_footer: false
   </a>
   <a href="https://twitter.com/bustavo" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white" style="min-height: 30px;" class="mb-1">
-  </a>
-</p>
-<p class="text-center">
-  <a href="https://facebook.com/bustavo" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/bustavo-1877F2?logo=facebook&logoColor=white" style="min-height: 30px;" class="mb-1">
-  </a>
-  <a href="https://linkedin.com/in/bustavo/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/bustavo-0077B5?logo=linkedin&logoColor=white" style="min-height: 30px;" class="mb-1">
   </a>
   <a href="http://tiktok.com/@bustavo.com" target="_blank">
     <img alt="TikTok" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=tiktok&logoColor=black" style="min-height: 30px;" class="mb-1">
