@@ -44,4 +44,7 @@ layout: default
     </article>
   </div>
 </div>
-    
+
+{% unless page.include_footer == false %}  
+  {%- include footer.html -%}
+{% endunless %}

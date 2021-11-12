@@ -25,7 +25,7 @@ alternate_language_url: /es
 —
 </p>
 
-<h3 class="text-light-gray">
+<h3 class="text-light-gray pt-5">
   <strong>Generative Art</strong>
 </h3>
 
