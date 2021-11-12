@@ -4,9 +4,9 @@ title: Home
 menu_name: English
 header: Hello, I am<br/>Gustavo
 language: English
-permalink: /
+permalink: /about
 alternate_language: Español
-alternate_language_url: /es
+alternate_language_url: /acerca
 ---
 
 <p>
