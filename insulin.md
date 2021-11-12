@@ -7,6 +7,7 @@ language: English
 permalink: /insulin-pricing-law
 alternate_language: Español
 alternate_language_url: /ley-precio-insulina
+include_footer: false
 ---
 
 <p>
@@ -184,3 +185,9 @@ alternate_language_url: /ley-precio-insulina
   Fits in a tweet:<br/>
   <span class="highlight">The Insulin Pricing Law: As pharmaceutical companies develop more efficient insulins, without intervention, they will achieve to never make their product completely accessible to 100% of humans that require it to survive. #insulin4all</span>
 </p>
+
+<p class="pt-3">
+—
+</p>
+
+{%- include alt_footer.html -%}

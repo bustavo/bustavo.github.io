@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enlaces
+title: Inicio
 menu_name: Enlaces
 language: Español
 permalink: /es
@@ -37,13 +37,13 @@ include_footer: false
 </p>
 
 <p>
-  <a href="/es" class="btn btn-dark btn-md btn-block">
+  <a href="{% link espanol.md %}" class="btn btn-dark btn-md btn-block">
     Acerca de mi
   </a>
 </p>
 
 <p>
-  <a href="/simpancreas" class="btn btn-dark btn-md btn-block">
+  <a href="{% link simpancreas_es.md %}" class="btn btn-dark btn-md btn-block">
     Simpancreas Preguntas Frecuentes
   </a>
 </p>
@@ -52,17 +52,17 @@ include_footer: false
   &nbsp;
 </p>
 
-<p class="text-center mb-0">
+<div class="text-center mb-0">
   <a href="https://github.com/bustavo" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=github&logoColor=black" style="min-height: 30px;" class="mb-1">
+    <img alt="GitHub" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=github&logoColor=black" style="min-height: 30px;">
   </a>
   <a href="https://instagram.com/bustavo" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/bustavo-E4405F?logo=instagram&logoColor=white" style="min-height: 30px;" class="mb-1">
+    <img alt="Instagram" src="https://img.shields.io/badge/bustavo-E4405F?logo=instagram&logoColor=white" style="min-height: 30px;">
   </a>
   <a href="https://twitter.com/bustavo" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white" style="min-height: 30px;" class="mb-1">
+    <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white" style="min-height: 30px;">
   </a>
   <a href="http://tiktok.com/@bustavo.com" target="_blank">
-    <img alt="TikTok" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=tiktok&logoColor=black" style="min-height: 30px;" class="mb-1">
+    <img alt="TikTok" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=tiktok&logoColor=black" style="min-height: 30px;">
   </a>
-</p>
+</div>

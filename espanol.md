@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inicio
+title: Acerca
 menu_name: Español
 header: Hola, soy<br/>Gustavo
 language: Español

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: About
 menu_name: English
 header: Hello, I am<br/>Gustavo
 language: English

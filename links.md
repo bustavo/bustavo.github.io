@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Home
 menu_name: Links
 language: English
 permalink: /
@@ -37,13 +37,13 @@ include_footer: false
 </p>
 
 <p>
-  <a href="/about" class="btn btn-dark btn-md btn-block">
+  <a href="{% link index.md %}" class="btn btn-dark btn-md btn-block">
     About Me
   </a>
 </p>
 
 <p>
-  <a href="/simpancreas-faq" class="btn btn-dark btn-md btn-block">
+  <a href="{% link simpancreas.md %}" class="btn btn-dark btn-md btn-block">
     Simpancreas FAQ
   </a>
 </p>
@@ -52,17 +52,17 @@ include_footer: false
   &nbsp;
 </p>
 
-<div class="text-center mb-0 col-12">
+<div class="text-center mb-5">
+  <a href="https://github.com/bustavo" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=github&logoColor=black" style="min-height: 30px;">
+  </a>
   <a href="https://instagram.com/bustavo" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/bustavo-E4405F?logo=instagram&logoColor=white" style="min-height: 30px;" class="mb-1">
+    <img alt="Instagram" src="https://img.shields.io/badge/bustavo-E4405F?logo=instagram&logoColor=white" style="min-height: 30px;">
   </a>
   <a href="https://twitter.com/bustavo" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white" style="min-height: 30px;" class="mb-1">
+    <img alt="Twitter" src="https://img.shields.io/badge/bustavo-1DA1F2?logo=twitter&logoColor=white" style="min-height: 30px;">
   </a>
   <a href="http://tiktok.com/@bustavo.com" target="_blank">
-    <img alt="TikTok" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=tiktok&logoColor=black" style="min-height: 30px;" class="mb-1">
-  </a>
-  <a href="https://github.com/bustavo" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=github&logoColor=black" style="min-height: 30px;" class="mb-1">
+    <img alt="TikTok" src="https://img.shields.io/badge/bustavo-FFFFFF?logo=tiktok&logoColor=black" style="min-height: 30px;">
   </a>
 </div>

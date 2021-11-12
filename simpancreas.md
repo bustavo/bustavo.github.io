@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Simpancreas ( Español )
-menu_name: Simpancreas ( es )
+title: Simpancreas
+menu_name: Simpancreas
 header: Frequently Asked Questions<br/>Simpancreas
 language: English
 permalink: /simpancreas-faq
