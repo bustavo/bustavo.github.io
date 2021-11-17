@@ -10,12 +10,12 @@ include_footer: false
 ---
 
 <p class="text-center">
-  <img src="assets/images/the_insulin_pricing_law.jpg">
+  <img src="assets/images/bustavo.jpg" class="rounded-circle img-fluid">
 </p>
 
 <p>
-  <a href="/insulin-pricing-law" class="btn btn-primary text-dark btn-md btn-block">
-    <strong>The Insulin Pricing Law</strong>
+  <a href="{% link index.md %}" class="btn btn-primary text-dark btn-md btn-block">
+    About Me
   </a>
 </p>
 
@@ -29,16 +29,15 @@ include_footer: false
   </a>
 </p>
 
-
 <p>
-  <a href="http://buymeacoffee.com/bustavo" class="btn btn-dark btn-md btn-block">
-    ☕️ Buy me a coffee ☕️
+  <a href="http://foundation.app/bustavo" class="btn btn-dark btn-md btn-block">
+    Invite me to Foundation 🙏
   </a>
 </p>
 
 <p>
-  <a href="{% link index.md %}" class="btn btn-dark btn-md btn-block">
-    About Me
+  <a href="http://buymeacoffee.com/bustavo" class="btn btn-dark btn-md btn-block">
+    ☕️ Buy me a coffee ☕️
   </a>
 </p>
 
@@ -48,8 +47,18 @@ include_footer: false
   </a>
 </p>
 
+<p>
+  <a href="{% link insulin.md %}" class="btn btn-dark btn-md btn-block">
+    The Insulin Pricing Law
+  </a>
+</p>
+
 <p class="m-t-5">
   &nbsp;
+</p>
+
+<p class="text-center">
+  Follow me:
 </p>
 
 <div class="text-center mb-5">

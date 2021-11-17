@@ -10,12 +10,12 @@ include_footer: false
 ---
 
 <p class="text-center">
-  <img src="assets/images/the_insulin_pricing_law.jpg">
+  <img src="assets/images/bustavo.jpg" class="rounded-circle img-fluid">
 </p>
 
 <p>
-  <a href="/ley-precio-insulina" class="btn btn-primary text-dark btn-md btn-block">
-    <strong>La Ley del Precio de la Insulina</strong>
+  <a href="{% link espanol.md %}" class="btn btn-primary text-dark btn-md btn-block">
+    Acerca de mi
   </a>
 </p>
 
@@ -29,16 +29,15 @@ include_footer: false
   </a>
 </p>
 
-
 <p>
-  <a href="http://buymeacoffee.com/bustavo" class="btn btn-dark btn-md btn-block">
-    ☕️ Cómprame un café ☕️
+  <a href="http://foundation.app/bustavo" class="btn btn-dark btn-md btn-block">
+    Invítame a Foundation 🙏
   </a>
 </p>
 
 <p>
-  <a href="{% link espanol.md %}" class="btn btn-dark btn-md btn-block">
-    Acerca de mi
+  <a href="http://buymeacoffee.com/bustavo" class="btn btn-dark btn-md btn-block">
+    ☕️ Cómprame un café ☕️
   </a>
 </p>
 
@@ -48,8 +47,18 @@ include_footer: false
   </a>
 </p>
 
+<p>
+  <a href="{% link insulina.md %}" class="btn btn-dark btn-md btn-block">
+    La Ley del Precio de la Insulina
+  </a>
+</p>
+
 <p class="m-t-5">
   &nbsp;
+</p>
+
+<p class="text-center">
+  Sígueme:
 </p>
 
 <div class="text-center mb-0">
