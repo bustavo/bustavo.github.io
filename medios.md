@@ -13,6 +13,14 @@ alternate_language_url: /media
   <br/>—
 </p>
 
+PCD@COIMBRA 2021: {BETWEEN} — AN INVENTORY OF ANACHRONIC PRACTICES<br/>
+<a href="https://www.youtube.com/watch?v=uQgSkM6u0AM&t=9113s">Presentación de mi trabajo, incluyendo mi obra Eroding Monoliths, seleccionada como parte de la exhibición.</a><br/>
+<small>Diciembre 9, 2021</small>
+
+<p>
+  —
+</p>
+
 Asia Pacific Conference of Young Scientists 2021<br/>
 <a href="https://fb.watch/8n9_MWvZA4/">Open Source, a key in humankind development.</a><br/>
 <small>September 28th, 2021</small>
