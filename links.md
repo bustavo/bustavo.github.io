@@ -24,14 +24,14 @@ include_footer: false
 </p>
 
 <p>
-  <a href="https://objkt.com/profile/tz1MLGjH4EGE4MaYWQKQQ4mCrLZAyb3RvAYJ" class="btn btn-dark btn-md btn-block">
-    My NFTs on Hic-et-Nunc
+  <a href="http://foundation.app/bustavo" class="btn btn-dark btn-md btn-block">
+    My NFTs on Foundation ( ETH )
   </a>
 </p>
 
 <p>
-  <a href="http://foundation.app/bustavo" class="btn btn-dark btn-md btn-block">
-    Invite me to Foundation 🙏
+  <a href="https://objkt.com/profile/tz1MLGjH4EGE4MaYWQKQQ4mCrLZAyb3RvAYJ" class="btn btn-dark btn-md btn-block">
+    My NFTs on Hic-et-Nunc ( TEZ )
   </a>
 </p>
 
