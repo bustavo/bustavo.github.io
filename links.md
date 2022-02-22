@@ -30,7 +30,7 @@ include_footer: false
 </p>
 
 <p>
-  <a href="https://objkt.com/profile/tz1MLGjH4EGE4MaYWQKQQ4mCrLZAyb3RvAYJ" class="btn btn-dark btn-md btn-block">
+  <a href="https://objkt.com/profile/bustavo" class="btn btn-dark btn-md btn-block">
     My NFTs on Objkt.com ( TEZ )
   </a>
 </p>

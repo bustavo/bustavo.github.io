@@ -34,7 +34,7 @@ alternate_language_url: /about
 </p>
 
 <p>
-  Si te interesa el crypto, mi trabajo y mi perfil validado puede ser encontrado aquí <a href="https://objkt.com/profile/tz1MLGjH4EGE4MaYWQKQQ4mCrLZAyb3RvAYJ/creations" target="_blank">Objkt.com ( TEZ )</a> y aquí <a href="http://foundation.app/bustavo">Foundation ( ETH )</a>.
+  Si te interesa el crypto, mi trabajo y mi perfil validado puede ser encontrado aquí <a href="https://objkt.com/profile/bustavo" target="_blank">Objkt.com ( TEZ )</a> y aquí <a href="http://foundation.app/bustavo">Foundation ( ETH )</a>.
 </p>
 
 <p>
