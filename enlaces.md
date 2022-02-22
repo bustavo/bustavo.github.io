@@ -31,7 +31,7 @@ include_footer: false
 
 <p>
   <a href="https://objkt.com/profile/tz1MLGjH4EGE4MaYWQKQQ4mCrLZAyb3RvAYJ" class="btn btn-dark btn-md btn-block">
-    Mis NFTs en Hic-et-Nunc ( TEZ )
+    Mis NFTs en Objkt.com ( TEZ )
   </a>
 </p>
 
