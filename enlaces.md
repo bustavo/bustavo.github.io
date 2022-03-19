@@ -36,12 +36,6 @@ include_footer: false
 </p>
 
 <p>
-  <a href="http://buymeacoffee.com/bustavo" class="btn btn-dark btn-md btn-block">
-    ☕️ Cómprame un café ☕️
-  </a>
-</p>
-
-<p>
   <a href="{% link simpancreas_es.md %}" class="btn btn-dark btn-md btn-block">
     Simpancreas Preguntas Frecuentes
   </a>

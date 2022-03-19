@@ -36,12 +36,6 @@ include_footer: false
 </p>
 
 <p>
-  <a href="http://buymeacoffee.com/bustavo" class="btn btn-dark btn-md btn-block">
-    ☕️ Buy me a coffee ☕️
-  </a>
-</p>
-
-<p>
   <a href="{% link simpancreas.md %}" class="btn btn-dark btn-md btn-block">
     Simpancreas FAQ
   </a>

@@ -13,6 +13,10 @@ alternate_language_url: /medios
   <br/>—
 </p>
 
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uQgSkM6u0AM?start=9158" allow="accelerometer;" allowfullscreen></iframe>
+</div>
+
 PCD@COIMBRA 2021: {BETWEEN} — AN INVENTORY OF ANACHRONIC PRACTICES<br/>
 <a href="https://www.youtube.com/watch?v=uQgSkM6u0AM&t=9113s">Short presentation for my work, including Eroding Monoliths, selected as part of the exhibition.</a><br/>
 <small>December 9th, 2021</small>
@@ -21,6 +25,10 @@ PCD@COIMBRA 2021: {BETWEEN} — AN INVENTORY OF ANACHRONIC PRACTICES<br/>
   —
 </p>
 
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FAPCYS2021%2Fvideos%2F228416102651767%2F&show_text=false&width=560&t=350" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allowFullScreen="true"></iframe>
+</div>
+
 Asia Pacific Conference of Young Scientists 2021<br/>
 <a href="https://fb.watch/8n9_MWvZA4/">Open Source, a key in humankind development.</a><br/>
 <small>September 28th, 2021</small>
@@ -28,6 +36,10 @@ Asia Pacific Conference of Young Scientists 2021<br/>
 <p>
   —
 </p>
+
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/j02D8pWNAOg?start=11134" allow="accelerometer;" allowfullscreen></iframe>
+</div>
 
 Google Developers Group DEV Fest 2020.<br/>
 <a href="https://gdg.community.dev/events/details/google-gdg-hermosillo-presents-dev-fest2020-hermosillo/">Open Source habilitando innovación médica.</a><br/>
@@ -53,13 +65,9 @@ Open Source para la innovación médica.<br/>
   —
 </p>
 
-INCmty. Monterrey, México.<br/>
-<a href="https://blog.incmty.com/no-tienes-experto-emprender">Emprendiendo en lo que no entiendo.</a><br/>
-<small>November 8th, 2019</small>
-
-<p>
-  —
-</p>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/K1C4xEWipOo" allow="accelerometer;" allowfullscreen></iframe>
+</div>
 
 TEDx Pitic ( Organization ). Hermosillo, Sonora<br/>
 <a href="https://www.youtube.com/watch?v=K1C4xEWipOo">Compartir tus ideas puede salvar vidas.</a><br/>
