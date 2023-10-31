@@ -24,18 +24,6 @@ include_footer: false
 </p>
 
 <p>
-  <a href="http://foundation.app/bustavo" class="btn btn-dark btn-md btn-block">
-    Mis NFTs en Foundation ( ETH )
-  </a>
-</p>
-
-<p>
-  <a href="https://objkt.com/profile/bustavo" class="btn btn-dark btn-md btn-block">
-    Mis NFTs en Objkt.com ( TEZ )
-  </a>
-</p>
-
-<p>
   <a href="{% link simpancreas_es.md %}" class="btn btn-dark btn-md btn-block">
     Simpancreas Preguntas Frecuentes
   </a>
