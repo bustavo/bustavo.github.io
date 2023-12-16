@@ -9,7 +9,7 @@
 @import "bootstrap_customization";
 
 h3 {
-  letter-spacing: -2px;
+  letter-spacing: -0.05em;
   font-weight: 100;
 }
 
@@ -21,4 +21,26 @@ iframe.instagram-media {
 
 iframe.instagram-media .Feedback, iframe.instagram-media .SocialProof, iframe.instagram-media .Caption {
   display: none;
+}
+
+#accordion button h3:before {
+  font-family:Fontawesome;
+  content:'\f077';
+  float:left;
+  font-size:14px;
+  font-weight:100;  
+  padding-top: 7px;
+  padding-right: 10px;
+};
+
+#accordion button.collapsed h3:before {
+    font-family:Fontawesome;
+    content:'\f078';
+}
+#accordion button:hover {
+  text-decoration: none;
+}
+
+.highlight {
+  color: #a9ff00;
 }

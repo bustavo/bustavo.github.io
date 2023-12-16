@@ -3,7 +3,7 @@ layout: page
 title: Home
 menu_name: Links
 language: English
-permalink: /
+permalink: /links
 alternate_language: Español
 alternate_language_url: /es
 include_footer: false
